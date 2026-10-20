@@ -19,6 +19,7 @@ Historiador y analista de datos. Trabajo donde se cruzan **la historia, la educa
 - 🔬 Coordino el **Proyecto METIS**: ciencia de datos ética, IA explicable y analíticas de aprendizaje en educación
 - 🤝 Colaboro como voluntario con **Data Uruguay** en la apertura de datos de la Intendencia de Montevideo
 - 📄 Autor de *«La programación de la historia: ciencia de datos para el análisis de fuentes históricas»*, *Claves. Revista de Historia* (2026)
+- 🚀 Postulado a la Maestría en Ciencia de Datos y Aprendizaje Automático en la Universidad de la República -pendiente de aceptación-
 
 ### 🛰️ Proyectos
 
