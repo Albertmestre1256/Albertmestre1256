@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+  <title id="t">Albert Mestre</title>
+  <desc id="d">Historiador y analista de datos. Historia, educación y ciencia de datos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1e"/>
+      <stop offset="0.55" stop-color="#14112e"/>
+      <stop offset="1" stop-color="#2a0f3d"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="0.5" stop-color="#a5b4fc"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#2dd4bf"/>
+      <stop offset="0.75" stop-color="#c084fc"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#6366f1" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .star { fill: #e0e7ff; animation: tw 3.2s ease-in-out infinite; }
+      .s2 { animation-delay: 1.1s; } .s3 { animation-delay: 2.2s; }
+      @keyframes tw { 0%,100% { opacity: .15 } 50% { opacity: .9 } }
+      .chart { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 4s ease-out forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0 } }
+      .pt { fill: #5eead4; opacity: 0; animation: pop .5s ease-out forwards; }
+      @keyframes pop { to { opacity: 1 } }
+      .sub { opacity: 0; animation: cycle 12s infinite; }
+      .sub.b { animation-delay: 4s; } .sub.c { animation-delay: 8s; }
+      @keyframes cycle { 0% { opacity: 0 } 5%,28% { opacity: 1 } 33%,100% { opacity: 0 } }
+      .name { font: 700 68px Georgia, 'Times New Roman', serif; letter-spacing: 2px; }
+      .role { font: 400 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c7d2fe; letter-spacing: 4px; }
+      .mono { font: 400 20px Consolas, 'Courier New', monospace; fill: #5eead4; }
+      .year { font: 400 13px Consolas, 'Courier New', monospace; fill: #a5b4fc; fill-opacity: .6; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="18" fill="url(#grid)"/>
+
+  <!-- estrellas -->
+  <g>
+    <circle class="star" cx="90" cy="60" r="1.8"/>
+    <circle class="star s2" cx="230" cy="310" r="1.4"/>
+    <circle class="star s3" cx="410" cy="40" r="1.6"/>
+    <circle class="star" cx="560" cy="345" r="1.2"/>
+    <circle class="star s2" cx="760" cy="55" r="1.8"/>
+    <circle class="star s3" cx="905" cy="330" r="1.5"/>
+    <circle class="star" cx="1110" cy="85" r="1.7"/>
+    <circle class="star s2" cx="1150" cy="290" r="1.3"/>
+    <circle class="star s3" cx="40" cy="220" r="1.4"/>
+    <circle class="star" cx="650" cy="20" r="1.1"/>
+  </g>
+
+  <!-- línea de tiempo con datos: de las fuentes históricas a los datos -->
+  <g transform="translate(0,6)">
+    <line x1="80" y1="300" x2="1120" y2="300" stroke="#a5b4fc" stroke-opacity=".25"/>
+    <text class="year" x="80" y="322">1825</text>
+    <text class="year" x="330" y="322">1900</text>
+    <text class="year" x="580" y="322">1973</text>
+    <text class="year" x="830" y="322">2000</text>
+    <text class="year" x="1080" y="322">2026</text>
+    <polyline class="chart" filter="url(#glow)" fill="none" stroke="url(#line)" stroke-width="3" stroke-linejoin="round"
+      points="80,280 170,268 250,274 330,250 420,258 500,236 580,262 660,230 740,214 830,222 910,190 990,176 1060,150 1120,138"/>
+    <circle class="pt" cx="330" cy="250" r="4" style="animation-delay:1.2s"/>
+    <circle class="pt" cx="580" cy="262" r="4" style="animation-delay:2s"/>
+    <circle class="pt" cx="830" cy="222" r="4" style="animation-delay:2.8s"/>
+    <circle class="pt" cx="1060" cy="150" r="4" style="animation-delay:3.6s"/>
+  </g>
+
+  <!-- texto -->
+  <text class="name" x="600" y="128" text-anchor="middle" fill="url(#name)" filter="url(#glow)">Albert Mestre</text>
+  <text class="role" x="600" y="170" text-anchor="middle">HISTORIA · EDUCACIÓN · CIENCIA DE DATOS</text>
+  <g text-anchor="middle">
+    <text class="mono sub a" x="600" y="214">&gt; leer las fuentes, limpiar los datos, verificar las cifras_</text>
+    <text class="mono sub b" x="600" y="214">&gt; datos abiertos al servicio de la educación pública_</text>
+    <text class="mono sub c" x="600" y="214">&gt; IA ética, explicable y transparente_</text>
+  </g>
+</svg>
