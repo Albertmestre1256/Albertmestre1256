@@ -44,6 +44,6 @@ Historiador y analista de datos. Trabajo donde se cruzan **la historia, la educa
 
 ### 🌐 In English
 
-<sub>Historian and data analyst from Montevideo, Uruguay, working where history, education and data science meet. Coordinator of the METIS Project (ethical data science and explainable AI in education), volunteer at Data Uruguay, and author of Obsidian Genesis.</sub>
+<sub>Historian and data analyst from Montevideo, Uruguay, working where history, education and data science meet. Coordinator of the METIS Project (ethical data science and explainable AI in education), volunteer at Data Uruguay, and author of Obsidian Genesis. Enrrolled in a MCs in Data Science and Machine Learning at Universidad de la República.</sub>
 
 <p align="center"><sub>«Leer las fuentes, limpiar los datos, verificar las cifras.»</sub></p>
