@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="200" viewBox="0 0 380 200" role="img" aria-label="Mapa de reciclaje Montevideo">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1e"/><stop offset="1" stop-color="#1c1236"/></linearGradient>
+  <style>.title{font:700 20px Georgia,'Times New Roman',serif;fill:#f8fafc}.body{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c7d2fe}.tag{font:400 12px Consolas,'Courier New',monospace;fill:#e0e7ff}.state{font:400 11px Consolas,'Courier New',monospace;fill:#86efac}.edge{animation:p 3s ease-in-out infinite}@keyframes p{0%,100%{stroke-opacity:.35}50%{stroke-opacity:.9}}</style></defs>
+  <rect x="1" y="1" width="378" height="198" rx="14" fill="url(#g)"/>
+  <rect class="edge" x="1" y="1" width="378" height="198" rx="14" fill="none" stroke="#86efac" stroke-width="1.5"/>
+  <rect x="24" y="24" width="6" height="22" rx="3" fill="#86efac"/>
+  <text x="40" y="42" class="title">Mapa de reciclaje Montevideo</text>
+  <text x="40" y="64" class="state">En desarrollo</text>
+  <text x="24" y="96" class="body">Mapa interactivo de contenedores de</text>
+  <text x="24" y="118" class="body">reciclaje con datos abiertos de</text>
+  <text x="24" y="140" class="body">Data Uruguay (catalogodatos.gub.uy).</text>
+  <rect x="24" y="150" width="72" height="24" rx="12" fill="#86efac" fill-opacity=".14" stroke="#86efac" stroke-opacity=".5"/><text x="60.0" y="166" text-anchor="middle" class="tag">Leaflet</text>
+  <rect x="104" y="150" width="94" height="24" rx="12" fill="#86efac" fill-opacity=".14" stroke="#86efac" stroke-opacity=".5"/><text x="151.0" y="166" text-anchor="middle" class="tag">JavaScript</text>
+  <rect x="206" y="150" width="123" height="24" rx="12" fill="#86efac" fill-opacity=".14" stroke="#86efac" stroke-opacity=".5"/><text x="267.5" y="166" text-anchor="middle" class="tag">Datos abiertos</text>
+</svg>

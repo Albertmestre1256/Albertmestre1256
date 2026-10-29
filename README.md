@@ -17,7 +17,7 @@ Historiador y analista de datos. Trabajo donde se cruzan **la historia, la educa
 
 - 🎓 Licenciado en Historia (UdelaR) · estudio el Profesorado de Historia en el IPA
 - 🔬 Coordino el **Proyecto METIS**: ciencia de datos ética, IA explicable y analíticas de aprendizaje en educación
-- 🤝 Colaboro como voluntario con **Data Uruguay** en la apertura de datos de la Intendencia de Montevideo
+- 🤝 Colaboro como voluntario con **Data Uruguay** en la apertura de datos de la Intendencia de Montevideo; el mapa de reciclaje es un proyecto de ese trabajo, hecho con un amigo
 - 📄 Autor de *«La programación de la historia: ciencia de datos para el análisis de fuentes históricas»*, *Claves. Revista de Historia* (2026)
 - 🚀 Postulado a la Maestría en Ciencia de Datos y Aprendizaje Automático en la Universidad de la República -pendiente de aceptación-
 
@@ -27,6 +27,12 @@ Historiador y analista de datos. Trabajo donde se cruzan **la historia, la educa
   <a href="https://github.com/Albertmestre1256/obsidian-genesis"><img src="assets/card-obsidian-genesis.svg" alt="Obsidian Genesis" width="32%"></a>
   <a href="https://github.com/Albertmestre1256/Analisis-de-metricas-Ceibal"><img src="assets/card-ceibal.svg" alt="Análisis de métricas Ceibal" width="32%"></a>
   <a href="https://github.com/Albertmestre1256/Calidad-del-aire-en-Montevideo"><img src="assets/card-calidad-aire.svg" alt="Calidad del aire en Montevideo" width="32%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Albertmestre1256/Buscador-de-Empleos-Uruguay"><img src="assets/card-buscador-empleos.svg" alt="Buscador de Empleos Uruguay" width="32%"></a>
+  <a href="https://github.com/Albertmestre1256/Obsidian-Vault-Tune-Up"><img src="assets/card-vault-tune-up.svg" alt="Obsidian Vault Tune-up" width="32%"></a>
+  <a href="https://github.com/sideW-Nico/mapa-reciclaje-montevideo-uruguay"><img src="assets/card-mapa-reciclaje.svg" alt="Mapa de reciclaje Montevideo" width="32%"></a>
 </p>
 
 ### 🧰 Herramientas
