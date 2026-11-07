@@ -19,7 +19,6 @@ Historiador y analista de datos. Trabajo donde se cruzan **la historia, la educa
 - 🔬 Coordino el **Proyecto METIS**: ciencia de datos ética, IA explicable y analíticas de aprendizaje en educación
 - 🤝 Colaboro como voluntario con **Data Uruguay** en la apertura de datos de la Intendencia de Montevideo; el mapa de reciclaje es un proyecto de ese trabajo, hecho con un amigo
 - 📄 Autor de *«La programación de la historia: ciencia de datos para el análisis de fuentes históricas»*, *Claves. Revista de Historia* (2026)
-- 🚀 Postulado a la Maestría en Ciencia de Datos y Aprendizaje Automático en la Universidad de la República -pendiente de aceptación-
 
 ### 🛰️ Proyectos
 
@@ -50,6 +49,6 @@ Historiador y analista de datos. Trabajo donde se cruzan **la historia, la educa
 
 ### 🌐 In English
 
-<sub>Historian and data analyst from Montevideo, Uruguay, working where history, education and data science meet. Coordinator of the METIS Project (ethical data science and explainable AI in education), volunteer at Data Uruguay, and author of Obsidian Genesis. Enrrolled in a MCs in Data Science and Machine Learning at Universidad de la República.</sub>
+<sub>Historian and data analyst from Montevideo, Uruguay, working where history, education and data science meet. Coordinator of the METIS Project (ethical data science and explainable AI in education), volunteer at Data Uruguay, and author of Obsidian Genesis.</sub>
 
 <p align="center"><sub>«Leer las fuentes, limpiar los datos, verificar las cifras.»</sub></p>
